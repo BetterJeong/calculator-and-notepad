@@ -22,5 +22,10 @@ namespace calculatorAndNotepad.panel
         {
             OnPictureClick?.Invoke(this, EventArgs.Empty);
         }
+
+        private void lblCalc_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
