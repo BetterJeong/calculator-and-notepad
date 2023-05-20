@@ -52,7 +52,8 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(40, 190);
+            this.textBox1.Font = new System.Drawing.Font("D2Coding", 10.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox1.Location = new System.Drawing.Point(40, 181);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(470, 332);
